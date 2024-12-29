@@ -1,0 +1,6 @@
+,Method,Trial,Params,Training Loss,Validation Loss
+0,Random Search,1,"{'batch_size': 256, 'hidden_dim': 256, 'lr': 0.0008927180304353628, 'num_flows': 15, 'weight_decay': 0.00021830968390524583}",1454.280417,1512.941483
+1,Random Search,2,"{'batch_size': 64, 'hidden_dim': 128, 'lr': 0.00027914686374528745, 'num_flows': 15, 'weight_decay': 1.493656855461763e-06}",1286.377359,1400.061663
+2,Random Search,3,"{'batch_size': 64, 'hidden_dim': 256, 'lr': 0.00013895264494261046, 'num_flows': 15, 'weight_decay': 1.1527987128232402e-06}",1266.905863,1379.239058
+3,Random Search,4,"{'batch_size': 128, 'hidden_dim': 256, 'lr': 0.0006798962421591129, 'num_flows': 10, 'weight_decay': 1.0053940194693026e-06}",1254.136873,1382.099315
+4,Random Search,5,"{'batch_size': 64, 'hidden_dim': 128, 'lr': 0.0002014847788415866, 'num_flows': 10, 'weight_decay': 1.0500232504231355e-06}",1355.027644,1423.00944

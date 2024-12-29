@@ -1,0 +1,6 @@
+,Method,Trial,Params,Training Loss,Validation Loss
+0,Bayesian Optimization,1,"{'lr': 0.0005696203351638634, 'num_flows': 5, 'hidden_dim': 260, 'batch_size': 128, 'weight_decay': 1.6983597721153257e-06}",,1362.072386328125
+1,Bayesian Optimization,2,"{'lr': 0.00011621183461628364, 'num_flows': 15, 'hidden_dim': 136, 'batch_size': 64, 'weight_decay': 0.00014183280121489003}",,1333.604860546875
+2,Bayesian Optimization,3,"{'lr': 0.000510548878395722, 'num_flows': 12, 'hidden_dim': 193, 'batch_size': 256, 'weight_decay': 4.755787739603313e-06}",,1317.4353365234374
+3,Bayesian Optimization,4,"{'lr': 0.001839061846024395, 'num_flows': 14, 'hidden_dim': 156, 'batch_size': 256, 'weight_decay': 1.3548342778979535e-05}",,1593.1488517578125
+4,Bayesian Optimization,5,"{'lr': 0.0003208470985688009, 'num_flows': 10, 'hidden_dim': 483, 'batch_size': 256, 'weight_decay': 7.226468521581041e-06}",,1334.9778642578126
